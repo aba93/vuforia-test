@@ -1,0 +1,19 @@
+The Books example app shows how to use the cloud recognition service to build a simple UI to scan a sample target book cover and display info on that book.
+
+Key Functionality
+- Display reco query status
+- Request book info meta data based on reco response
+- Render book info on target
+- Transition display of book info to screen when off target
+
+Targets
+https://developer.vuforia.com/sites/default/files/sample-apps/targets/cloudreco_targets.pdf
+
+Instructions
+- Point camera at sample book cover to view info
+- Press close box to scan another book
+
+Terms of Use
+https://developer.vuforia.com/legal/EULA
+
+© 2012-2014 Qualcomm Connected Experiences, Inc. All Rights Reserved.
